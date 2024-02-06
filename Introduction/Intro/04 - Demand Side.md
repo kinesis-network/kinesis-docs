@@ -3,6 +3,7 @@ On the demand side, Kinesis Network welcomes all users seeking GPU resources for
 Benefits to Demand Side:
 
 1\ Over 90% Cost Savings: Spend Your Money to Innovate, Not to Compute!
+
 By utilizing otherwise wasted resources, Kinesis Network is perpetually more affordable. We offer a cost saving ranging from 90% to 99% compared to centralized alternatives.
 
 2\ Pay-As-You-Go: Pay for What You Use, Not for What You Reserve! 
